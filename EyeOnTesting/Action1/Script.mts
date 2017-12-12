@@ -1,4 +1,4 @@
-﻿'Created 13 July 2017 author Jean Suplick, usurped by Jordan Gottlieb
+﻿'Created 13 July 2017 author Jean Suplick, usurped by Jordan Gottlieb 12 Dec 2017
 'Stored in GitHub repo UFT-Tests
 
 Browser("EyeOnTesting - Orasi Software,").Page("EyeOnTesting - Orasi Software,").WebEdit("q").Set "Octnae" @@ hightlight id_;_Browser("EyeOnTesting - Orasi Software,").Page("EyeOnTesting - Orasi Software,").WebEdit("q")_;_script infofile_;_ZIP::ssf1.xml_;_
