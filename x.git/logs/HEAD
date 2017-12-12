@@ -1,0 +1,31 @@
+0000000000000000000000000000000000000000 45a89085e31460a0b2fb7206e25afd48dfea3f8a Jean Suplick <jean.suplick@orasi.com> 1500072203 -0500	clone: from https://github.com/jsuplick/UFT-Tests.git
+45a89085e31460a0b2fb7206e25afd48dfea3f8a 7c2129d0df5dd3b1d511349969e940e470dc3d25 Jean Suplick <jean.suplick@orasi.com> 1500072269 -0500	commit: Changes
+7c2129d0df5dd3b1d511349969e940e470dc3d25 d7bbd7c3c77fe9bd1651276f7352cb615efaeb2b Jean Suplick <jean.suplick@orasi.com> 1500072924 -0500	commit: Cleaned up the OR
+d7bbd7c3c77fe9bd1651276f7352cb615efaeb2b cdcb5b869e8a133021e97f744d6d3838e1dbde6d Jean Suplick <jean.suplick@orasi.com> 1500074035 -0500	commit: Test ready to be run
+cdcb5b869e8a133021e97f744d6d3838e1dbde6d f4b2729c635bc0611cb48338ecc670a11b2f7f70 Jean Suplick <jean.suplick@orasi.com> 1501180495 -0500	commit: UFT commit
+f4b2729c635bc0611cb48338ecc670a11b2f7f70 423d73f6db1510331f05e7b35b52548cff2ed309 Jean Suplick <jean.suplick@orasi.com> 1501180554 -0500	commit: First commit
+423d73f6db1510331f05e7b35b52548cff2ed309 7ea1a01b6d75435221bbc556b43199bf3492a78b Jean Suplick <jean.suplick@orasi.com> 1501181089 -0500	commit: UFT commit
+7ea1a01b6d75435221bbc556b43199bf3492a78b 5623aad0d257716eefd7dd299501ab5af1f1e3fc Jean Suplick <jean.suplick@orasi.com> 1501181774 -0500	commit: testing
+5623aad0d257716eefd7dd299501ab5af1f1e3fc ed08319b1d5e352683891c8a9d5347df35deb0d4 Jean Suplick <jean.suplick@orasi.com> 1501182351 -0500	commit: Latest changes
+ed08319b1d5e352683891c8a9d5347df35deb0d4 afb959513b65a01e4d15041197f047d536d9125b Jean Suplick <jean.suplick@orasi.com> 1501182511 -0500	commit: testing
+afb959513b65a01e4d15041197f047d536d9125b 6623a245b249a99bd03da8d2a32ef527e066b5f3 Jean Suplick <jean.suplick@orasi.com> 1501862098 -0500	commit: UFT commit
+6623a245b249a99bd03da8d2a32ef527e066b5f3 6321cb1386001015f24d5472ac2a78189bad0b4c Jean Suplick <jean.suplick@orasi.com> 1502732075 -0500	commit: UFT commit
+6321cb1386001015f24d5472ac2a78189bad0b4c 26ff07b9872fea9779911c785ad5ecd2046d2773 Jean Suplick <jean.suplick@orasi.com> 1502733936 -0500	commit: UFT commit
+26ff07b9872fea9779911c785ad5ecd2046d2773 c0aee4bd043daece10a971002d682eb139db348c Jean Suplick <jean.suplick@orasi.com> 1502736095 -0500	commit: UFT commit
+c0aee4bd043daece10a971002d682eb139db348c d357fb47a3ad8b279829c4470ca67155f04d6541 Jean Suplick <jean.suplick@orasi.com> 1502818162 -0500	commit: UFT commit
+d357fb47a3ad8b279829c4470ca67155f04d6541 d357fb47a3ad8b279829c4470ca67155f04d6541 Jean Suplick <jean.suplick@orasi.com> 1504710161 -0500	reset: moving to HEAD
+d357fb47a3ad8b279829c4470ca67155f04d6541 8341c7d0ea0454b96dbce9a536d4228a083afb01 Jean Suplick <jean.suplick@orasi.com> 1504710211 -0500	commit: UFT commit
+8341c7d0ea0454b96dbce9a536d4228a083afb01 71a7956b9cf7d05c9e56c20192283409682198fb Jean Suplick <jean.suplick@orasi.com> 1504733421 -0500	commit: UFT commit
+71a7956b9cf7d05c9e56c20192283409682198fb 28b4c549d3ea2f4da4a4f0f0ffc966f74cffc15c Jean Suplick <jean.suplick@orasi.com> 1504733432 -0500	commit: UFT commit
+28b4c549d3ea2f4da4a4f0f0ffc966f74cffc15c eb783622993b2be552ddb48aafeda62ef356e989 Jean Suplick <jean.suplick@orasi.com> 1504733472 -0500	commit: UFT commit
+eb783622993b2be552ddb48aafeda62ef356e989 5617829edc956d03d024bc9c4c77dced717ed6ab Jean Suplick <jean.suplick@orasi.com> 1504733480 -0500	commit: UFT commit
+5617829edc956d03d024bc9c4c77dced717ed6ab cb0ad9023422d9853db55f31ff28124766a1fe64 Jean Suplick <jean.suplick@orasi.com> 1504733509 -0500	commit: UFT commit
+cb0ad9023422d9853db55f31ff28124766a1fe64 c9b7d5a8572061950a12084018adda262320d091 Jean Suplick <jean.suplick@orasi.com> 1504733520 -0500	commit: UFT commit
+c9b7d5a8572061950a12084018adda262320d091 a4f75f9930571103bbec0ae646cf73eb32506201 Jean Suplick <jean.suplick@orasi.com> 1504734179 -0500	commit: UFT commit
+a4f75f9930571103bbec0ae646cf73eb32506201 65b23675f8c380a46044509dbfe5a616e68b583a Jean Suplick <jean.suplick@orasi.com> 1504734219 -0500	commit: UFT commit
+65b23675f8c380a46044509dbfe5a616e68b583a 5a16c17152ac3f394b6b6da734a28639a1debab8 Jean Suplick <jean.suplick@orasi.com> 1504744643 -0500	commit: UFT commit
+5a16c17152ac3f394b6b6da734a28639a1debab8 0475e2b5e62d4fb887e76333190d3693df1abff8 Jean Suplick <jean.suplick@orasi.com> 1504877159 -0500	commit: UFT commit
+0475e2b5e62d4fb887e76333190d3693df1abff8 54ba1b41adfc3bcdd9adc205b76f85eb710e7d71 Jean Suplick <jean.suplick@orasi.com> 1506439829 -0500	commit: UFT commit
+54ba1b41adfc3bcdd9adc205b76f85eb710e7d71 54ba1b41adfc3bcdd9adc205b76f85eb710e7d71 Jean Suplick <jean.suplick@orasi.com> 1506719357 -0500	reset: moving to HEAD
+54ba1b41adfc3bcdd9adc205b76f85eb710e7d71 4a066a1008bafcb3c00d9cf25d2d5751d497ae7c Jean Suplick <jean.suplick@orasi.com> 1506719362 -0500	commit: UFT commit
+4a066a1008bafcb3c00d9cf25d2d5751d497ae7c 2e76040a5abb2cf616c26a0fd9efdc7c00466b25 Jean Suplick <jean.suplick@orasi.com> 1506719487 -0500	commit: UFT commit
